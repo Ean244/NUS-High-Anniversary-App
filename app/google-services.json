@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "27451739425",
+    "firebase_url": "https://nush-15-anniversary.firebaseio.com",
+    "project_id": "nush-15-anniversary",
+    "storage_bucket": "nush-15-anniversary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27451739425:android:64f2002439d7362f980260",
+        "android_client_info": {
+          "package_name": "edu.sg.nushigh.h1930006.anniversary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27451739425-om9gokdmtvm6giaemagor6ij5cc8g9pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKUQiK5zYNpiKrRAmDqCUa6VCvJuc4ops"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27451739425-om9gokdmtvm6giaemagor6ij5cc8g9pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27451739425:android:151a1643efe5d107980260",
+        "android_client_info": {
+          "package_name": "edu.sg.nushigh.h1930006.nushighlights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27451739425-gpk80hla1v1tqmh9nd7rtt4lffdod37j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sg.nushigh.h1930006.nushighlights",
+            "certificate_hash": "07a5fb55ae7045324b3b97d5ae9deeaa13548a16"
+          }
+        },
+        {
+          "client_id": "27451739425-om9gokdmtvm6giaemagor6ij5cc8g9pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKUQiK5zYNpiKrRAmDqCUa6VCvJuc4ops"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27451739425-om9gokdmtvm6giaemagor6ij5cc8g9pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

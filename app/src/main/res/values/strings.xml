@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">NUS High Anniversary App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">NUSH Gallery</string>
+    <string name="menu_events">Events Timeline</string>
+    <string name="menu_suggestions">Suggestions And Feedback</string>
+    <string name="menu_subscribe">Subscribe Newsletter</string>
+
+    <string name="gallery_orientation">Orientation 2020</string>
+    <string name="gallery_cca">CCA Fair</string>
+    <string name="gallery_ssef">SSEF</string>
+    <string name="gallery_sli">Student Leader Investiture</string>
+    <string name="subscribe_newsletter">Subscribe To Newsletter</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="email">Email</string>
+    <string name="subscribe_description">Subscribe to Keep Up with Our Future Events</string>
+    <string name="communicate">Communicate</string>
+    <string name="feedback_title">We\'d Like to Hear from You!</string>
+    <string name="feedback_desc">Do you have any suggestions for the NUSH 15th Anniversary App? Let us know below!</string>
+    <string name="feedback_experience">How was your experience with us?</string>
+    <string name="feedback_improve">Suggestions / What can be improved</string>
+    <string name="submit">Submit</string>
+
+    <string name="logo_formation">Logo Formation</string>
+    <string name="alumni_gathering">Alumni Gathering</string>
+    <string name="open_house">Open House</string>
+    <string name="nanosat">Launching Cubesat</string>
+
+    <string name="logo_formation_desc">All staffs and students currently studying in NUS High will be taking a group photo by arranging themselves to form the official logo of the school.
+        This will be a one and only chance for the whole school to take a group photo for the first time.</string>
+    <string name="alumni_gathering_desc">Alumni of NUS High will be welcomed back to the school to have a look and celebrate
+    the school\'s 15th anniversary with each other.</string>
+    <string name="open_house_desc">Visitors are invited to join our open house to learn more about life in NUS High. Students will
+    be showcasing their achievements and research projects. CCA groups will also be introducing their CCA to the visitors</string>
+    <string name="nanosat_desc">The school will be launching its own home made nano satellite into space in commemoration of the 15th anniversary
+    under the CubeSat project. This project will be carried out by our students.</string>
+
+    <string name="logo_formation_date">13/3/20</string>
+    <string name="alumni_gathering_date">20/5/20</string>
+    <string name="open_house_date">6/8/20</string>
+    <string name="nanosat_date">21/11/20</string>
+</resources>
