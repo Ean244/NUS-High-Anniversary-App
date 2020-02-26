@@ -1,71 +1,42 @@
 {
   "project_info": {
-    "project_number": "27451739425",
-    "firebase_url": "https://nush-15-anniversary.firebaseio.com",
-    "project_id": "nush-15-anniversary",
-    "storage_bucket": "nush-15-anniversary.appspot.com"
+    "project_number": "905269317663",
+    "firebase_url": "https://nush-anniversary-app.firebaseio.com",
+    "project_id": "nush-anniversary-app",
+    "storage_bucket": "nush-anniversary-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:27451739425:android:64f2002439d7362f980260",
+        "mobilesdk_app_id": "1:905269317663:android:e779bd16b6dbba50b5c52a",
         "android_client_info": {
           "package_name": "edu.sg.nushigh.h1930006.anniversary"
         }
       },
       "oauth_client": [
         {
-          "client_id": "27451739425-om9gokdmtvm6giaemagor6ij5cc8g9pr.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDKUQiK5zYNpiKrRAmDqCUa6VCvJuc4ops"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "27451739425-om9gokdmtvm6giaemagor6ij5cc8g9pr.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:27451739425:android:151a1643efe5d107980260",
-        "android_client_info": {
-          "package_name": "edu.sg.nushigh.h1930006.nushighlights"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "27451739425-gpk80hla1v1tqmh9nd7rtt4lffdod37j.apps.googleusercontent.com",
+          "client_id": "905269317663-l0t2oq04macqkkb4o17ba17fmaav6uil.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "edu.sg.nushigh.h1930006.nushighlights",
-            "certificate_hash": "07a5fb55ae7045324b3b97d5ae9deeaa13548a16"
+            "package_name": "edu.sg.nushigh.h1930006.anniversary",
+            "certificate_hash": "97896a77b6306c51fd9b7cef7eb1c65abe2b0573"
           }
         },
         {
-          "client_id": "27451739425-om9gokdmtvm6giaemagor6ij5cc8g9pr.apps.googleusercontent.com",
+          "client_id": "905269317663-c18pacngi8jbivpunuu0pln00ta00e33.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDKUQiK5zYNpiKrRAmDqCUa6VCvJuc4ops"
+          "current_key": "AIzaSyBDEGHMr593FpEUsVGBX0grqVkd14VpbTg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "27451739425-om9gokdmtvm6giaemagor6ij5cc8g9pr.apps.googleusercontent.com",
+              "client_id": "905269317663-c18pacngi8jbivpunuu0pln00ta00e33.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
